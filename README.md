@@ -1,3 +1,1 @@
-# react-z8u9ce
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-z8u9ce)
+this is react task using api i have created product ui click the link to view the website https://flipcart-product-ui.netlify.app/
